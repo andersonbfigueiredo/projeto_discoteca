@@ -26,7 +26,7 @@
 - Músicas não podem ser compartilhadas entre discos.  
 
 **Tecnologias:** MySQL, modelagem relacional (Conceitual e Lógico) e normalização.  
-**Diferencial:** Modelo eficiente para artistas (solo/grupo) e integridade entre discos e músicas.
+**Diferencial:** Modelo eficiente para artistas (solo/grupo) e integridade entre discos e músicas.<br>
 **Problematização Original:** [Saiba+](./plano_de_negocio/SA_1.md) sobre o plano de negócio.
 
 ---
