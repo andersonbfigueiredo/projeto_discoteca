@@ -39,7 +39,7 @@ Este projeto não possui relacionamentos **muitos-para-muitos** (N:M), portanto,
 
 Os script sql responsavel pela geração do banco de dados propostos, abaixo:
 
-1. CREATE |  2. INSERT |
+|1. CREATE |  2. INSERT |
 |-------------------------------|-------------------------------------------------|
 [CREATE SQL](../../scripts_sql/create/1_discoteca_scripts_create.sql) | [INSERT SQL](../../scripts_sql/insert/2_discoteca_scripts_insert.sql) |
 
